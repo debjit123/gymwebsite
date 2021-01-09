@@ -1,0 +1,14 @@
+.ownweimg img{
+    height: 282px;
+    margin: 66px;
+    width: 150px;
+    border-radius: 40px;
+}
+.ownweimg{
+    background-color: #b8f2f2;
+}
+h1{
+    background-color: #b8f2f2;
+    padding: 20px;
+    text-align: center;
+}

@@ -1,0 +1,38 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+h1{ 
+    margin-top: 20px;
+    text-align: center;
+}
+.myinput{
+    width: 45%;
+    padding: 10px;
+    margin: 5px;
+    border-radius: 5px;
+    font-size: 15px;
+    border: 2px solid red;
+
+}
+.myform{
+    margin: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.btn{
+    margin-top: 17px;
+    background-color: red;
+    color: white;
+    padding: 4px 10px;
+    border: 2px solid red;
+    border-radius: 18px;
+    font-size: 20px;
+    cursor: pointer;
+}
+.parent{
+   min-height: 100vh;
+}
